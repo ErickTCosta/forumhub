@@ -130,20 +130,6 @@ Developed by Erick Costa
 🔗 LinkedIn
 💻 GitHub
 
-yaml
-Copy
-Edit
-
----
-
-👉 Esse README já fica **profissional e pronto para o GitHub**.  
-Quer que eu faça também a versão em **português**, para deixar no mesmo repositório em `README.pt-BR.md` e ter suporte a duas línguas?
 
 
 
-
-
-
-
-
-Ask ChatGPT

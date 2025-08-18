@@ -2,7 +2,7 @@ package com.erickcosta.forumhub.forum.controller;
 import com.erickcosta.forumhub.forum.domain.topico.Topico;
 import com.erickcosta.forumhub.forum.dto.TopicoRequest;
 import com.erickcosta.forumhub.forum.dto.TopicoResponse;
-import com.erickcosta.forumhub.forum.repository.TopicoRepository;
+import com.erickcosta.forumhub.forum.domain.topico.TopicoRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
